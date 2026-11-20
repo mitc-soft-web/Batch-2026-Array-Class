@@ -1,0 +1,14 @@
+C:\Users\HOD-SW\Desktop\mitc-class\Batch26Class\bin\Debug\net10.0\Batch26Class.exe
+C:\Users\HOD-SW\Desktop\mitc-class\Batch26Class\bin\Debug\net10.0\Batch26Class.deps.json
+C:\Users\HOD-SW\Desktop\mitc-class\Batch26Class\bin\Debug\net10.0\Batch26Class.runtimeconfig.json
+C:\Users\HOD-SW\Desktop\mitc-class\Batch26Class\bin\Debug\net10.0\Batch26Class.dll
+C:\Users\HOD-SW\Desktop\mitc-class\Batch26Class\bin\Debug\net10.0\Batch26Class.pdb
+C:\Users\HOD-SW\Desktop\mitc-class\Batch26Class\obj\Debug\net10.0\Batch26Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOD-SW\Desktop\mitc-class\Batch26Class\obj\Debug\net10.0\Batch26Class.AssemblyInfoInputs.cache
+C:\Users\HOD-SW\Desktop\mitc-class\Batch26Class\obj\Debug\net10.0\Batch26Class.AssemblyInfo.cs
+C:\Users\HOD-SW\Desktop\mitc-class\Batch26Class\obj\Debug\net10.0\Batch26Class.csproj.CoreCompileInputs.cache
+C:\Users\HOD-SW\Desktop\mitc-class\Batch26Class\obj\Debug\net10.0\Batch26Class.dll
+C:\Users\HOD-SW\Desktop\mitc-class\Batch26Class\obj\Debug\net10.0\refint\Batch26Class.dll
+C:\Users\HOD-SW\Desktop\mitc-class\Batch26Class\obj\Debug\net10.0\Batch26Class.pdb
+C:\Users\HOD-SW\Desktop\mitc-class\Batch26Class\obj\Debug\net10.0\Batch26Class.genruntimeconfig.cache
+C:\Users\HOD-SW\Desktop\mitc-class\Batch26Class\obj\Debug\net10.0\ref\Batch26Class.dll
